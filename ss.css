@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(-80deg,cornsilk,rgb(179,202,245));
+    width: 100%;
+    height: 100%;
+}
+.nn {
+    text-align: left;
+    margin-left: 146px;
+    margin-top: 15px;
+    text-align: center;
+    color:navy;
+    font-family:'Gill Sans', 'Gill Sans MT';
+    font-size:25px;
+}
+.logo{
+    width: 20%;
+    display:flex;
+    margin-left: 40px;
+    justify-content:left;
+    align-items: left;    
+} 
+.logo img{
+    width:50%;
+    height:35%;
+    border:3px solid navy;
+    border-radius: 50px;
+    margin-top: -30px;
+    margin-left: -40px;
+}
+.nav-bar{
+    display: flex;
+}
+.nav-list{
+    width:100%;
+    display: flex;
+    justify-content: left;
+    align-items:left;
+    margin-left:100px;
+    margin-top: -80px;
+
+
+}
+.nav-list li{
+    list-style: none;
+    padding: 25px 30px;
+   }
+   .nav-list li a{
+   text-decoration: none;
+   color:darkred;
+   font-size:18px;
+   }
+   .nav-list li a:hover{
+       color:blue;
+   }
+h1{
+    text-align:center;
+    color: navy;
+    border:5px solid navy;
+    border-radius: 70px;
+    font-size: 40px;
+}
+.pr h2{
+    color: darkred;
+    text-align: left;
+    text-decoration: underline;
+    margin-top: 35px;
+    margin-left: 25px;
+    font-size: 30px;
+}
+.pr p{
+    color:navy;
+    text-align: left;
+    font-size: 22px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
