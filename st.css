@@ -1,0 +1,191 @@
+body{
+    background:linear-gradient(-80deg,cornsilk,rgb(179, 202, 245));
+    position: relative;
+    width: 100%;
+    height:100%;
+}
+h1{
+    text-align: left;
+    margin-left: 146px;
+    margin-top: 15px;
+    text-align: center;
+    color:navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.logo{
+    width: 20%;
+    display:flex;
+    margin-left: 40px;
+    justify-content:left;
+    align-items: left;    
+} 
+.logo img{
+    width:50%;
+    height:35%;
+    border:3px solid navy;
+    border-radius: 50px;
+    margin-top: -50px;
+    margin-left: -40px;
+
+}
+.nav-bar{
+    display: flex;
+
+}
+.nav-list{
+    width:50%;
+    display: flex;
+    justify-content: right;
+    align-items:right;
+    margin-left:150px;
+    margin-top: -70px;
+}
+.nav-list li{
+    list-style: none;
+    padding: 15px 20px;
+   }
+   .nav-list li a{
+   text-decoration: none;
+   color:darkred;
+   font-size:18px;
+   }
+   .nav-list li a:hover{
+       color:blue;
+   }
+   
+   .right-nav{
+       width: 25%;
+       text-align: right;
+       margin-top:-48px;
+       margin-left: -40px;
+   }
+   .re{
+       margin-left: -20px;
+   text-align: center;
+   margin-top: 40px;
+   color:navy;
+   border: 5px solid navy;
+   border-radius:80px;
+   }
+
+   #row h1{
+    text-align: left;
+    color:darkred;
+    text-decoration: underline;
+    margin-left: 25px;
+   }
+   #row h2{
+       margin-top: 20px;
+       color:navy;
+       margin-left: 20px;
+   }
+   #row p{
+       margin-top: 10px;
+       color:navy;
+       margin-left:20px;
+       font-size: 24px;
+   }
+   #row h3{
+       color:darkred;
+       text-decoration: underline;
+       text-align: left;
+       font-size: 30px;
+       margin-left: 25px;
+       margin-top: 50px;
+    }
+    #row h4{
+        color:navy; 
+        font-size: 25px;
+        margin-top: 25px;
+        margin-left: 25px;
+        text-align: left;
+    }
+    .ex h2{
+        text-align: left;
+        margin-left: 25px;
+        margin-top: 75px;
+        color:darkred;
+        text-decoration:underline;
+        font-size: 25px;
+    }
+.ex p{
+    text-align: left;
+    color:navy;
+    margin-top: 10px;
+    margin-left: 25px;
+    font-size: 24px;
+}
+.ex h3{
+    font-size: 25px;
+    text-align: left;
+    color:darkred;
+    margin-top:30px;
+    margin-left: 25px;
+    text-decoration: underline;
+}
+.why h1{
+    color:darkred;
+    border: 5px solid darkred;
+    border-radius:70px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    margin-left: -22px;
+}
+.why p{
+    font-size: 30px;
+    color: navy;
+    margin-top: 50px;
+    text-align: left;
+}
+.why h2{
+    text-align: left;
+    color: darkred;
+    text-decoration: underline;
+    margin-top: 40px;
+    margin-left:20px;
+    font-size: 30px;
+}
+.pp p{
+    color:navy;
+    text-align: left;
+    font-size:25px ;
+    margin-left: 25px;
+}
+.pp h2{
+    text-align: left;
+    color: darkred;
+    margin-top: 30px;
+    margin-left: 25px;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.PP UL{
+    text-decoration: wavy;
+    color:navy;
+    text-align: left;
+    margin-left:25px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.pp h3{
+    text-align: left;
+    margin-top: 70px;
+    color:darkred;
+    text-decoration: underline;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.ready{
+    color:darkgreen;
+    text-align: center;
+    border: 5px solid darkgreen;
+    border-radius: 80px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+
+
